@@ -1,6 +1,6 @@
 # Earthquakes visualization
 
-This application shows the earthquakes in 2019 with an exaggerated depth. The earthquake data used in this app comes from [USGS](https://earthquake.usgs.gov/earthquakes/search/). The app is created with [Esri's ArcGIS API for JavaScript](https://developers.arcgis.com/javascript).
+This application has been forked from a repository of [RalucaNicola](https://github.com/RalucaNicola/earthquakes-viz) and shows the earthquakes in 2023 with an exaggerated depth. The earthquake data used in this app comes from [USGS](https://earthquake.usgs.gov/earthquakes/search/). The app is created with [Esri's ArcGIS API for JavaScript](https://developers.arcgis.com/javascript).
 
 [![app-screenshot](./app-screenshot.png)](https://ralucanicola.github.io/earthquakes-viz/)
 
@@ -8,7 +8,7 @@ This application shows the earthquakes in 2019 with an exaggerated depth. The ea
 
 If you want to visualize your own data like this, follow the steps below:
 
-1. Fork this repository.
+1. Fork this repository (or RalucaNicola's).
 2. Clone it locally on your machine:
    `git clone https://github.com/your_user_name/earthquakes-viz.git`
 3. Download data from USGS:
