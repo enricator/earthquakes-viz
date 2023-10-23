@@ -2,7 +2,7 @@
 
 This application has been forked from a repository of [RalucaNicola](https://github.com/RalucaNicola/earthquakes-viz) and shows the earthquakes in 2023 with an exaggerated depth. The earthquake data used in this app comes from [USGS](https://earthquake.usgs.gov/earthquakes/search/). The app is created with [Esri's ArcGIS API for JavaScript](https://developers.arcgis.com/javascript).
 
-[![app-screenshot](./app-screenshot.png)](https://enricator.github.io/earthquakes-viz/)
+[![app-screenshot](./app-screenshot-2023.png)](https://enricator.github.io/earthquakes-viz/)
 
 ## How to re-create this visualization with your own data
 
